@@ -8,7 +8,7 @@
     var j = 0;
 
     for (i = rowIndex; i >= 0; i--) {
-        
+        result[i] = 1;
       }
 
   };
