@@ -10,5 +10,8 @@
     for (i = rowIndex; i >= 0; i--) {
         result[i] = 1;
       }
+      for (j = i + 1; j < rowIndex; j++) {
+        
+      }
 
   };
