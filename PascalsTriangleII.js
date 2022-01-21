@@ -23,6 +23,7 @@
 
   - The function getRow() takes in a row index and returns an array of the numbers in that row.
   - The outer for loop is used to iterate over the rows.
+  - The inner for loop is used to iterate over the columns.
   
 
   */
