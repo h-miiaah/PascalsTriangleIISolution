@@ -11,7 +11,7 @@
         result[i] = 1;
       }
       for (j = i + 1; j < rowIndex; j++) {
-        
+        result[j] += result[j + 1];
       }
 
   };
