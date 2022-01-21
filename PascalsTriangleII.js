@@ -26,6 +26,6 @@
   - The inner for loop is used to iterate over the columns.
   - The first element in the array is always 1.
   - The second element in the array is always 1.
-  
+  -The rest of the elements in the array are the sum of the elements above and to the left of the current element.
 
   */
