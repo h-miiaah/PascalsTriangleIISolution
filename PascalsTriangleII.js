@@ -14,4 +14,6 @@
         result[j] += result[j + 1];
       }
 
+      return result;
+
   };
