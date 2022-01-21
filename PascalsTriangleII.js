@@ -17,3 +17,11 @@
       return result;
 
   };
+
+
+  /*
+
+  - The function getRow() takes in a row index and returns an array of the numbers in that row.
+  
+
+  */
